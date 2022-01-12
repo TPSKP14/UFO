@@ -19,4 +19,5 @@ As shown in the below image, we developed a conveinient and attractive website t
 
 
 **SUMMARY**
+
 Though most of the developments were positive, there were some drawbacks to this new design.  For one, without the presence of a button, anytime the user makes a mistake the web page automatically updates instead of waiting until the user is ready to filter the results.  Another drawback is that the data the user is searching for has to be an exact match.  If it is off by one day, or the format of the input is not correct, nothing will show up.  A way to potentially improve the website would be to show any UFO sightings reported in a 5 day window of the entered date, with the most accurate at the top of the list.  Further more, the button should be replaced for filtering so the user can check their work without it automatically updating
